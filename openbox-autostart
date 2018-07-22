@@ -1,0 +1,5 @@
+feh --bg-scale /home/mike168m/Pictures/red_landscape.jpg
+
+compton -bc
+
+(lemonbar.sh | lemonbar -b -p -F#FFFFFFFF -B#FF222222 -f "DejaVu Sans Mono"-8 -f "fontawesome") &
